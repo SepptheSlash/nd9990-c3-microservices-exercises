@@ -1,4 +1,4 @@
-set_env.sh
+./project/set_env.sh
 ./project/deployment/*secret.yaml
 *.DS_Store
 ./project/udagram-api-feed/node_modules
