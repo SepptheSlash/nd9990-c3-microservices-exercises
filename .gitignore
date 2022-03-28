@@ -1,0 +1,7 @@
+set_env.sh
+./project/deployment/*secret.yaml
+*.DS_Store
+./project/udagram-api-feed/node_modules
+./project/udagram-api-user/node_modules
+./project/udagram-frontend/node_modules
+./project/udagram-reverseproxy/node_modules
